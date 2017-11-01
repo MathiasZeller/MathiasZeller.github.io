@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Jekyll Documentation"
-# Christian stinkt!
 date:   2013-06-05 20:03:11
-external-url: http://jekyllrb.com/docs/home/
 ---
+
+# Christian stinkt!
